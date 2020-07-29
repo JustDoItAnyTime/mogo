@@ -1,0 +1,1 @@
+//here you can save local font for your project
